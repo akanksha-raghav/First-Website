@@ -1,0 +1,510 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.name{
+	height: 120px;
+	background-image: url(1.jpg);
+	background-repeat: round;
+	color: yellow;
+	text-align: center;
+	
+}
+p{
+	margin: 40px;
+	text-align: center;
+	font-size: 18px;
+	font-family:"Comic Sans MS", cursive, sans-serif ;
+	color: grey;
+
+}
+.a{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(2.jpg);
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:blue;
+    float: right;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.a:hover{
+    transform:scale(1.5);
+}
+.b{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(5.jpg);
+	text-align: center;
+	border-radius: 50px;
+	float: right;
+	font-size: 20px;
+    color:white;
+    font-family: URW Chancery L, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.b:hover{
+    transform:scale(1.5);
+}
+.c{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(6.jpg);
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:#441639;
+    font-family:cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.c:hover{
+    transform:scale(1.5);
+}
+.d{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(8.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.d:hover{
+    transform:scale(1.5);
+}
+.e{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(10.jpg);
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:#dae4cb;
+    float: right;
+    font-family: Bradley Hand, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.e:hover{
+    transform:scale(1.5);
+}
+.f{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(14.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.f:hover{
+    transform:scale(1.5);
+}
+.g{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(15.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: URW Chancery L, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.g:hover{
+    transform:scale(1.5);
+}
+.h{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(4.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.h:hover{
+    transform:scale(1.5);
+}
+.i{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(6.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:pink;
+    font-family: "Comic Sans MS", cursive, sans-serif ;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.i:hover{
+    transform:scale(1.5);
+}
+.j{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(8.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.j:hover{
+    transform:scale(1.5);
+}
+.k{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(12.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:yellow;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.k:hover{
+    transform:scale(1.5);
+}
+.l{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(11.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:#c0e093;
+    font-family: "Comic Sans MS", cursive, sans-serif ;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.l:hover{
+    transform:scale(1.5);
+}
+.m{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(13.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.m:hover{
+    transform:scale(1.5);
+}
+.n{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(14.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.n:hover{
+    transform:scale(1.5);
+}
+.o{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(15.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.o:hover{
+    transform:scale(1.5);
+}
+.p{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(16.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.p:hover{
+    transform:scale(1.5);
+}
+.q{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(17.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.q:hover{
+    transform:scale(1.5);
+}
+.r{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(18.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:purple;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.r:hover{
+    transform:scale(1.5);
+}
+.s{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(10.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.s:hover{
+    transform:scale(1.5);
+}
+.t{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(19.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.t:hover{
+    transform:scale(1.5);
+}
+.u{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(20.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:pink;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.u:hover{
+    transform:scale(1.5);
+}
+.v{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(5.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.v:hover{
+    transform:scale(1.5);
+}
+.w{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(3.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:yellow;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.w:hover{
+    transform:scale(1.5);
+}
+.x{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(5.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:white;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.x:hover{
+    transform:scale(1.5);
+}
+.y{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(6.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	float: right;
+	font-size: 20px;
+    color:blue;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.y:hover{
+    transform:scale(1.5);
+}
+.z{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(7.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+	float: right;
+    color:yellow;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.z:hover{
+    transform:scale(1.5);
+}
+.aa{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(19.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:#c0e093;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.aa:hover{
+    transform:scale(1.5);
+}
+.ab{
+	margin: 35px;
+	width: 400px;
+	height: 240px;
+	background-image: url(20.jpg);
+	background-repeat: round;
+	text-align: center;
+	border-radius: 50px;
+	font-size: 20px;
+    color:pink;
+    font-family: Apple Chancery, cursive;  
+    transform:scale(1);
+	transition:transform 2s;
+}
+.ab:hover{
+    transform:scale(1.5);
+ }
